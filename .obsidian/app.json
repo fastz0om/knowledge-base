@@ -1,0 +1,17 @@
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "Attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Notes",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "showFrontmatter": true,
+  "defaultViewMode": "source",
+  "promptDelete": false
+}
