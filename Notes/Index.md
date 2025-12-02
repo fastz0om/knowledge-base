@@ -20,6 +20,9 @@
 #### Контейнеры
 - [[Docker/Container Operations]] - Управление жизненным циклом контейнеров
 
+#### Веб-серверы
+- [[Nginx/Default Server Configuration]] - Конфигурация default server для отклонения несоответствующих запросов
+
 #### Виртуализация
 - [[Proxmox/Backup and Restore]] - Резервное копирование и восстановление VM
 
