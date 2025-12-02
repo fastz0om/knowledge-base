@@ -39,7 +39,7 @@ docker ps -a --filter name=dreamy_mendel --format "{{.ID}}" | xargs docker stop
 
 ```bash
 docker run -it --rm \
-  -v /home/a.choban/repos/external/confluence-publisher-plugin:/opt/ \
+  -v /home/fastz0om/repos/external/confluence-publisher-plugin:/opt/ \
   maven:3.8.1-jdk-11 bash
 ```
 
