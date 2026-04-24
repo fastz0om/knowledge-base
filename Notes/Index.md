@@ -22,6 +22,8 @@
 
 #### Веб-серверы
 - [[Nginx/Default Server Configuration]] - Конфигурация default server для отклонения несоответствующих запросов
+- [[Nginx/PFX Certificate and Key Extraction]] - Извлечение сертификата и приватного ключа из PFX/PKCS#12 для Nginx
+- [[Nginx/SELinux Port Configuration for Nginx]] - Разрешение нестандартных портов Nginx при включенном SELinux
 
 #### Виртуализация
 - [[Proxmox/Backup and Restore]] - Резервное копирование и восстановление VM
@@ -88,6 +90,7 @@
 
 #### Управление секретами
 - [[Vault/AppRole Management]] - Операции с Vault AppRole
+- [[Vault/GitLab CI JWT Integration]] - Интеграция Vault и GitLab CI через ID Tokens (JWT), API или vault CLI
 
 ## Как использовать
 
