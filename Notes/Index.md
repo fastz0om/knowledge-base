@@ -88,6 +88,9 @@
 #### Базы данных
 - [[Databases/ClickHouse]] - Запросы и системные таблицы ClickHouse
 
+#### Java
+- [[Java/JFR and Heap Dump for Java Services]] - Снятие JFR и heap dump для диагностики Java сервисов
+
 #### Управление секретами
 - [[Vault/AppRole Management]] - Операции с Vault AppRole
 - [[Vault/GitLab CI JWT Integration]] - Интеграция Vault и GitLab CI через ID Tokens (JWT), API или vault CLI
